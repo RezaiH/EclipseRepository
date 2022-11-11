@@ -18,4 +18,8 @@ public class TestClass {
 		 int res = num + num1;
 		 System.out.println(res);
 	}
+	public String whoIsTheWinner() {
+		String name = "Hussain Rezai";
+		return name;
+	}
 }
